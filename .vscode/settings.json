@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "backend/business-domain/product/src/main/java/com/ads"
     ],
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "disabled"
 }
